@@ -1,0 +1,13 @@
+{
+  "name": "Ignition Casino",
+  "short_name": "Ignition Casino",
+  "description": "Ignition Casino – Play & Win Big in AU | Ignition Casino EU",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/images/fav.png",
+      "type": "image/png"
+    }
+  ]
+}
